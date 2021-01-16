@@ -1,10 +1,4 @@
-# IAE 101
-# Project 04 - Poetry Generator
-# Name Ishika Soni
-# Student ID 113492059
-# netid issoni
-# Date 11/20/2020
-# poetry_generator.py (v.4)
+
 
 import nltk
 import pronouncing
@@ -160,11 +154,7 @@ def stress_test():
         print(w, len(stl))
         print(stl)
 
-############################################################
-##                                                         #
-### STUDENT SECTION                                        #
-##                                                         #
-############################################################
+
 
 # generate_rhyming_line()
 # Complete this function so that it returns a list. The list
